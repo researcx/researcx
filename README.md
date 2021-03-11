@@ -10,7 +10,7 @@
 
 [lxd powertool](https://github.com/researcx/lxd-tools) for container mass-management and automation
 
-my [directory listing script](https://github.com/researcx/keiDirList) based on SPKZ's and Garry's directory listing
+my [directory listing script](https://github.com/researcx/pydirlist) based on SPKZ's and Garry's directory listing
 
 on Arch Linux 
 basics install of [weechat and (optionally) weechat-matrix and/or bitlbee](https://gist.github.com/researcx/3d48686fbef0dd0251d4803eb72c96a5)
