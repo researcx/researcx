@@ -1,3 +1,5 @@
+[timg](https://github.com/researcx/timg) self-destructing image upload server in python+flask (experimental)
+
 [comicbot](https://github.com/D2K5/comicbot) fork which improves the comic algorithm and adds various fixes
 
 [pyborg-1up](https://github.com/researcx/pyborg-1up) fork which adds server password and trigger word support
