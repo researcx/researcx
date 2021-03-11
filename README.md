@@ -12,20 +12,17 @@
 
 my [directory listing script](https://github.com/researcx/pydirlist) based on SPKZ's and Garry's directory listing
 
-on Arch Linux 
-basics install of [weechat and (optionally) weechat-matrix and/or bitlbee](https://gist.github.com/researcx/3d48686fbef0dd0251d4803eb72c96a5)
+basics install of [weechat and (optionally) weechat-matrix and/or bitlbee](https://gist.github.com/researcx/3d48686fbef0dd0251d4803eb72c96a5) on Arch Linux 
 
-[tewi](https://github.com/lucy/tewi-font)) to qubes os
-[instructions](https://github.com/researcx/dotfiles-qubes-i3) for bringing rice (with [i3-gaps-qubes](https://github.com/researcx/i3-gaps-qubes), numix themes/icons,
+[instructions](https://github.com/researcx/dotfiles-qubes-i3) for bringing rice to qubes os (with [i3-gaps-qubes](https://github.com/researcx/i3-gaps-qubes), numix themes/icons, [tewi](https://github.com/lucy/tewi-font)) 
 
-[i3-gaps-qubes](https://github.com/researcx/i3-gaps-qubes), i3-gaps patch for i3-qubes
+[i3-gaps-qubes](https://github.com/researcx/i3-gaps-qubes) i3-gaps patch for qubes 3.2
 
 [simple documentation downloader](https://gist.github.com/researcx/2060a4fb6f21adccc26a3ae8799f19fb) for offline viewing
 
 added timeout, proxy and useragent support to [goscraper](https://github.com/researcx/goscraper)
 
-maps, mods, etc) from 2005 and 2006
-(archive) a collection of [gmod 8.3b resources](https://github.com/researcx/gmod-8-3b-mods-maps-only) (such as model packs,
+(archive) a collection of [gmod 8.3b resources](https://github.com/researcx/gmod-8-3b-mods-maps-only) from 2005 and 2006 (such as model packs, maps, mods, etc)
 
 minimal [arch](https://gist.github.com/researcx/e3b0476f2f75165f004773f8add4a7ad) and [void](https://gist.github.com/researcx/216482572b15fe299ee742899c741e50) linux install instructions
 
@@ -37,8 +34,7 @@ my personal [weechat configuration](https://gist.github.com/researcx/26558dfbfd9
 
 linux [system-wide audio tweaks](https://gist.github.com/researcx/8e583f8cfc68562355408b9b854ff31c) (24bit 192 khz + a=432 hz tuning + eq)
 
-forum software
-[syndbb](https://github.com/researcx/SynDBB) - an irc, imageboard, facepunch and somethingawful themed/inspired
+[syndbb](https://github.com/researcx/SynDBB) - an irc, imageboard, facepunch and somethingawful themed/inspired forum software
 
 [spacetopia](https://github.com/researcx/spacetopia) - rp-oritented ss13 mod with sl style features & customization
 
@@ -64,8 +60,7 @@ git repository [auto-updater](https://gist.github.com/researcx/21233a8756993e1f0
 
 space station 13 [d2station v1, v2 and v4 codebase](https://github.com/researcx/d2station-full) mods + server
 
-([1](img/opensim1.jpg), [2](img/opensim2.jpg), [3](img/opensim3.jpg), [4](img/opensim4.jpg), [5](img/opensim5.jpg), [6](img/opensim6.jpg), [7](img/opensim7.png))
-personal opensim grid + custom mods (currency integration for xenforo bank)
+personal opensim grid + custom mods (currency integration for xenforo bank) ([1](img/opensim1.jpg), [2](img/opensim2.jpg), [3](img/opensim3.jpg), [4](img/opensim4.jpg), [5](img/opensim5.jpg), [6](img/opensim6.jpg), [7](img/opensim7.png))
 
 mass [photo scanner](https://gist.github.com/researcx/ebf32c517d1dcc246f9141dbe1dcfcd2) for direct (hot)link urls for use with upload sites
 
@@ -75,11 +70,9 @@ random drawings, drawn concepts, graphics and webdesigns
 
 various gmod roleplay scripts + hud design ([1](img/gmodrp1.png), [2](img/gmodrp2.png))
 
-gm_ze_airportz(+_winter (spacebuild temperature compatible)), de_hotel)
-source (gmod and cs:s) mapping ([gm_wireconstruct](https://github.com/researcx/gm_wireconstruct_rc), [rp_d2city](https://github.com/researcx/rp_d2city), rp_d2country,
+source (gmod and cs:s) mapping ([gm_wireconstruct](https://github.com/researcx/gm_wireconstruct_rc), [rp_d2city](https://github.com/researcx/rp_d2city), rp_d2country, gm_ze_airportz(+_winter (spacebuild temperature compatible)), de_hotel)
 
-(custom playermodels)
-source modding (city 47), texturing (custom map textures), model editing
+source modding (city 47), texturing (custom map textures), model editing (custom playermodels)
 
 markov forum bot
 
@@ -87,7 +80,6 @@ smf forum mods (rp item shop, smartness, ban list, improved ban system)
 
 instant messaging system with irc backend (never finished)
 
-sharing/transfers
-upload site with file listing, thumbnails, search, user to user file
+upload site with file listing, thumbnails, search, user to user file sharing/transfers
 
 large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
