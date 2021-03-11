@@ -1,4 +1,4 @@
-[timg](https://github.com/researcx/timg) self-destructing image upload server in python+flask (experimental)
+[timg](https://github.com/researcx/timg) (temporary image) - self-destructing image upload server in python+flask (experimental)
 
 [comicbot](https://github.com/D2K5/comicbot) fork which improves the comic algorithm and adds various fixes
 
