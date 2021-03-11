@@ -90,5 +90,4 @@ instant messaging system with irc backend (never finished)
 sharing/transfers
 upload site with file listing, thumbnails, search, user to user file
 
-d2city)
-large-scale, high-detail activeworlds city builds (rockford, parameira,
+large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
