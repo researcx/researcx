@@ -82,9 +82,12 @@ smf forum mods (rp item shop, smartness, ban list, improved ban system)
 
 instant messaging system with irc backend (never finished)
 
+various gta san andreas mods on gtagaming and theborggaming (texture overhaul, improved lighting, improved water)
+
 upload site with file listing, thumbnails, search, user to user file sharing/transfers
 
 large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
+
 
 	xmr: 86PHZTrVFtRMqPvM4F6k5BKYz5EKD1eoTepvqpNGEcktEkQ9xuVt98biL4QzCCsENFKJP58nPTPbyB6CG33gy5FWDxacA1A
 	btc: bc1qykkggg6l7uqtg0l5mffzzys8f3sc5dj095jr0h
