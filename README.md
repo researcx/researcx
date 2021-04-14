@@ -85,3 +85,10 @@ instant messaging system with irc backend (never finished)
 upload site with file listing, thumbnails, search, user to user file sharing/transfers
 
 large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
+
+	xmr: 86PHZTrVFtRMqPvM4F6k5BKYz5EKD1eoTepvqpNGEcktEkQ9xuVt98biL4QzCCsENFKJP58nPTPbyB6CG33gy5FWDxacA1A
+	btc: bc1qykkggg6l7uqtg0l5mffzzys8f3sc5dj095jr0h
+	monzo.me: https://monzo.me/keiratreial (direct bank transfer)
+	paypal.me: https://paypal.me/d2k5 (paypal transaction)
+	
+	(all transactions will be considered a gift unless otherwise mutually agreed upon in prior (99% goes towards survival))
