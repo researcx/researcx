@@ -62,7 +62,7 @@ git repository [auto-updater](https://gist.github.com/researcx/21233a8756993e1f0
 
 space station 13 [d2station v1, v2 and v4 codebase](https://github.com/researcx/d2station-full) mods + server
 
-personal opensim grid + custom mods (currency integration for xenforo bank) ([1](img/opensim1.jpg), [2](img/opensim2.jpg), [3](img/opensim3.jpg), [4](img/opensim4.jpg), [5](img/opensim5.jpg), [6](img/opensim6.jpg), [7](img/opensim7.png))
+personal opensim grid + custom mods (currency integration for xenforo bank)
 
 mass [photo scanner](https://gist.github.com/researcx/ebf32c517d1dcc246f9141dbe1dcfcd2) for direct (hot)link urls for use with upload sites
 
@@ -70,7 +70,7 @@ various irc servers
 
 random drawings, drawn concepts, graphics and webdesigns
 
-various gmod roleplay scripts + hud design ([1](img/gmodrp1.png), [2](img/gmodrp2.png))
+various gmod roleplay scripts + hud design
 
 source (gmod and cs:s) mapping ([gm_wireconstruct](https://github.com/researcx/gm_wireconstruct_rc), [rp_d2city](https://github.com/researcx/rp_d2city), rp_d2country, gm_ze_airportz(+_winter (spacebuild temperature compatible)), de_hotel)
 
