@@ -97,5 +97,3 @@ large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
 	monzo.me: https://monzo.me/keiratreial (direct bank transfer)
 	cash.app: https://cash.app/£keiratree (cashapp payment)
 	liberapay: https://liberapay.com/researcx/donate (become a patron)
-	
-	(all transactions will be considered a gift unless otherwise mutually agreed upon in prior (99% goes towards survival))
