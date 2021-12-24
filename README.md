@@ -102,6 +102,6 @@ large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
 	donorbox: https://donorbox.org/kei-t
 	liberapay: https://liberapay.com/researcx/donate
 
-***https://gitlab.com/unendingpattern (snippets: https://gitlab.com/users/unendingPattern/snippets)
+***https://gitlab.com/unendingpattern (snippets: https://gitlab.com/users/unendingPattern/snippets)***
 
-https://github.com/researcx (gists: https://gist.github.com/researcx)***
+***https://github.com/researcx (gists: https://gist.github.com/researcx)***
