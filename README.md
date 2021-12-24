@@ -84,6 +84,8 @@ instant messaging system with irc backend (never finished)
 
 various gta san andreas mods on gtagaming and theborggaming (texture overhaul, improved lighting, improved water)
 
+gta sa:mp roleplay scripts
+
 upload site with file listing, thumbnails, search, user to user file sharing/transfers
 
 large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
@@ -100,6 +102,10 @@ github: https://github.com/researcx (gists: https://gist.github.com/researcx)
 
 	xmr: 86PHZTrVFtRMqPvM4F6k5BKYz5EKD1eoTepvqpNGEcktEkQ9xuVt98biL4QzCCsENFKJP58nPTPbyB6CG33gy5FWDxacA1A
 	btc: bc1qykkggg6l7uqtg0l5mffzzys8f3sc5dj095jr0h
-	monzo.me: https://monzo.me/keiratreial (direct bank transfer)
-	cash.app: https://cash.app/£keiratree (cashapp payment)
-	liberapay: https://liberapay.com/researcx/donate (become a patron)
+	ko-fi: https://ko-fi.com/keitree
+	coinbase: https://commerce.coinbase.com/checkout/aee4db37-b4e4-4a21-9a85-1d7cd04e0ede
+	btc (coinbase): 3Q59HkYgRAYKo8N9NuQzDQYmnZL653pHBr
+	monzo: https://monzo.me/keiratreial
+	cashapp: https://cash.app/£keiratree
+	donorbox: https://donorbox.org/kei-t
+	liberapay: https://liberapay.com/researcx/donate
