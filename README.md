@@ -90,14 +90,6 @@ upload site with file listing, thumbnails, search, user to user file sharing/tra
 
 large-scale, high-detail activeworlds city builds (rockford, parameira, d2city)
 
-	
-	
-gitlab: https://gitlab.com/unendingpattern (snippets: https://gitlab.com/users/unendingPattern/snippets)
-
-github: https://github.com/researcx (gists: https://gist.github.com/researcx)
-	
-	
-
 	If you like or have found my work useful; please consider donating.
 
 	xmr: 86PHZTrVFtRMqPvM4F6k5BKYz5EKD1eoTepvqpNGEcktEkQ9xuVt98biL4QzCCsENFKJP58nPTPbyB6CG33gy5FWDxacA1A
@@ -109,3 +101,7 @@ github: https://github.com/researcx (gists: https://gist.github.com/researcx)
 	cashapp: https://cash.app/£keiratree
 	donorbox: https://donorbox.org/kei-t
 	liberapay: https://liberapay.com/researcx/donate
+
+***https://gitlab.com/unendingpattern (snippets: https://gitlab.com/users/unendingPattern/snippets)
+
+https://github.com/researcx (gists: https://gist.github.com/researcx)***
