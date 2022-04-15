@@ -19,7 +19,7 @@ BTC:
 * liberapay: https://liberapay.com/researcx/donate
 * & [more](https://linktr.ee/keitree) (paypal, square, wishlists, merch)
 
-**[Sponsor Me](https://linktr.ee/keitree)** *([mirror #1](https://archive.today/newest/https://linktr.ee/keitree), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://linktr.ee/keitree))*
+[Sponsor Me](https://linktr.ee/keitree) *([mirror #1](https://archive.today/newest/https://linktr.ee/keitree), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://linktr.ee/keitree))*
 
 
 **GitLab:** https://gitlab.com/unendingpattern
