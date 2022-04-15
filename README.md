@@ -25,9 +25,9 @@ BTC:
 [Sponsor Me](https://linktr.ee/keitree) *([mirror #1](https://archive.today/newest/https://linktr.ee/keitree), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://linktr.ee/keitree))*
 
 
-**GitLab:** https://gitlab.com/unendingpattern
+**GitLab:** https://gitlab.com/researcx
 
-**Snippets:** https://gitlab.com/users/unendingPattern/snippets
+**Snippets:** https://gitlab.com/users/researcx/snippets
 
 
 **GitHub:** https://github.com/researcx
