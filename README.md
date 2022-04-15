@@ -7,6 +7,9 @@ If you like or have found any of this useful; please consider donating.
 XMR: 
 
 	86PHZTrVFtRMqPvM4F6k5BKYz5EKD1eoTepvqpNGEcktEkQ9xuVt98biL4QzCCsENFKJP58nPTPbyB6CG33gy5FWDxacA1A
+ETH:
+
+	0x2532ff4C8778b0C191989baFfEa8c106834B9b2b
 BTC: 
 
 	bc1qykkggg6l7uqtg0l5mffzzys8f3sc5dj095jr0h
