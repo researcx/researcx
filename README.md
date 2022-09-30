@@ -15,12 +15,9 @@ BTC:
 	bc1qykkggg6l7uqtg0l5mffzzys8f3sc5dj095jr0h
 	
 * coinbase: https://commerce.coinbase.com/checkout/aee4db37-b4e4-4a21-9a85-1d7cd04e0ede
-* ko-fi: https://ko-fi.com/keitree
-* monzo: https://monzo.me/keiratreial
 * cashapp: https://cash.app/£keiratree
-* donorbox: https://donorbox.org/kei-t
-* liberapay: https://liberapay.com/researcx/donate
-* & [more](https://linktr.ee/keitree) (paypal, square, wishlists, merch)
+* monzo: https://monzo.me/keiratreial
+* & [more](https://linktr.ee/keitree) (paypal, square)
 
 [Sponsor Me](https://linktr.ee/keitree) *([mirror #1](https://archive.today/newest/https://linktr.ee/keitree), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://linktr.ee/keitree))*
 
