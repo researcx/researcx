@@ -10,8 +10,8 @@ XMR:
 	
 BTC, LTC, ETH, USDC, DOGE, BCH, USDT, DAI via [coinbase](https://commerce.coinbase.com/checkout/aee4db37-b4e4-4a21-9a85-1d7cd04e0ede)
 
+* liberapay: https://liberapay.com/researcx/donate
 * cashapp: https://cash.app/£keiratree
-* liberapay: https://monzo.me/keiratreial
 * ko-fi: https://ko-fi.com/keitree
 * & [more](https://linktr.ee/keitree) (paypal, square)
 
