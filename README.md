@@ -7,16 +7,12 @@ If you like or have found any of this useful; please consider donating.
 XMR: 
 
 	86PHZTrVFtRMqPvM4F6k5BKYz5EKD1eoTepvqpNGEcktEkQ9xuVt98biL4QzCCsENFKJP58nPTPbyB6CG33gy5FWDxacA1A
-ETH:
-
-	0x2532ff4C8778b0C191989baFfEa8c106834B9b2b
-BTC: 
-
-	bc1qykkggg6l7uqtg0l5mffzzys8f3sc5dj095jr0h
 	
-* coinbase: https://commerce.coinbase.com/checkout/aee4db37-b4e4-4a21-9a85-1d7cd04e0ede
+BTC, LTC, ETH, USDC, DOGE, BCH, USDT, DAI via [coinbase](https://commerce.coinbase.com/checkout/aee4db37-b4e4-4a21-9a85-1d7cd04e0ede)
+
 * cashapp: https://cash.app/£keiratree
-* monzo: https://monzo.me/keiratreial
+* liberapay: https://monzo.me/keiratreial
+* ko-fi: https://ko-fi.com/keitree
 * & [more](https://linktr.ee/keitree) (paypal, square)
 
 [Sponsor Me](https://linktr.ee/keitree) *([mirror #1](https://archive.today/newest/https://linktr.ee/keitree), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://linktr.ee/keitree))*
