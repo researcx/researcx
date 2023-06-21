@@ -1,6 +1,4 @@
-**[Full Information](https://identify.us.to/researcx)** *([mirror #1](https://archive.today/newest/https://identify.us.to/researcx), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://identify.us.to/researcx))* - [LinkedIn](https://www.linkedin.com/in/keitree) - [Work Contact & Commissions](https://linktr.ee/keitree)
-
-If you like or have found any of this useful; please consider donating.
+**[Full Information](https://identify.us.to/researcx)** *([mirror #1](https://archive.today/newest/https://identify.us.to/researcx), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://identify.us.to/researcx))*
 
 XMR: 
 
@@ -10,20 +8,9 @@ BTC, LTC, ETH, USDC, DOGE, BCH, USDT, DAI via [coinbase](https://commerce.coinba
 
 * liberapay: https://liberapay.com/researcx/donate
 * cashapp: https://cash.app/£keiratree
-* ko-fi: https://ko-fi.com/keitree
 * & [more](https://linktr.ee/keitree) (paypal, square)
 
-[Sponsor Me](https://linktr.ee/keitree) *([mirror #1](https://archive.today/newest/https://linktr.ee/keitree), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://linktr.ee/keitree))*
-
-
-**GitLab:** https://gitlab.com/researcx
-
-**Snippets:** https://gitlab.com/users/researcx/snippets
-
-
-**GitHub:** https://github.com/researcx
-
-**Gists:** https://gist.github.com/researcx
+[**Repositories** ](https://github.com/researcx?tab=repositories) - [**Gists**](https://gist.github.com/researcx)
 
 	-----BEGIN PGP PUBLIC KEY BLOCK-----
 
