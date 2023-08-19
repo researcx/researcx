@@ -1,15 +1,24 @@
-**[Full Information](https://identify.us.to/researcx)** *([mirror #1](https://archive.today/newest/https://identify.us.to/researcx), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://identify.us.to/researcx))*
+[**CV**](https://keiratreial.gitlab.io) &bull; [**Full Information**](https://researcx.gitlab.io) ([mirror #1](https://archive.today/newest/https://researcx.gitlab.io), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://researcx.gitlab.io))
 
-XMR: 
+
+<div align="center">
+
+| <img src="img/xmr.png" width="200" alt="XMR"> | <img src="img/coinbase-eth.png" width="200" alt="ETH"> | <img src="img/coinbase-btc.png" width="200" alt="BTC"> |
+|:-:|:-:|:-:|
+| **XMR** | **ETH** | **BTC** |
+
+</div>
+
+**XMR:** 
 
 	86PHZTrVFtRMqPvM4F6k5BKYz5EKD1eoTepvqpNGEcktEkQ9xuVt98biL4QzCCsENFKJP58nPTPbyB6CG33gy5FWDxacA1A
 	
-BTC, LTC, ETH, USDC, DOGE, BCH, USDT, DAI via [coinbase](https://commerce.coinbase.com/checkout/aee4db37-b4e4-4a21-9a85-1d7cd04e0ede).
+**BTC, LTC, ETH, USDC, DOGE, BCH, USDT, DAI** via [**coinbase**](https://commerce.coinbase.com/checkout/aee4db37-b4e4-4a21-9a85-1d7cd04e0ede).
 
 * liberapay: https://liberapay.com/researcx/donate
-* cashapp: https://cash.app/£keiratree
-* & [more](https://linktr.ee/keitree) (paypal, square)
+* & [more](https://linktr.ee/keitree) (paypal, cashapp, square)
 
+**Personal:**
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -36,3 +45,28 @@ csqf/dOCXaWfD0IEibZxyGbPuzClKm23B7pdGYI=
 =3Uy5
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+**Work:**
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEZIorMhYJKwYBBAHaRw8BAQdAuEJMGjbBIG9k1N8XT3vnN6z48tkGiGvgoQ51
+HyP4f3O0REtlaXJhIFRyZWlhbCAoV29yaykgPDEzMzg1NTE3NCtrZWlyYXRyZWlh
+bEB1c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20+iJkEExYKAEEWIQTw0Rkj0gGIiGXt
+t2OSPzqDC2oSZQUCZIorMgIbAwUJGlDRAAULCQgHAgIiAgYVCgkICwIEFgIDAQIe
+BwIXgAAKCRCSPzqDC2oSZQZPAQCmkHMLuE+KtDeMu68i+VunRCswg/2TR9wo9Uf5
+DVo5aQEA87EuAxQ50rn6G7WZi+0SOZrTpvikaUEqKvmVk7ogagi4OARkiisyEgor
+BgEEAZdVAQUBAQdA1F+AADJRsZDhWm9o95Fdx2Zv7H6xL7r4xJ0bcV7mWWcDAQgH
+iH4EGBYKACYWIQTw0Rkj0gGIiGXtt2OSPzqDC2oSZQUCZIorMgIbDAUJGlDRAAAK
+CRCSPzqDC2oSZScSAQCzFOYj6y1rQBaYhMXCQt1DYgs+M9uwQWY/4sRA1T+w6QEA
+4xmWros2oWZXFp4Fr3PBx7OtPBAZCVdrvKHwOUu/2AY=
+=gHXs
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+<div align="center">
+
+_Be wary of impersonator accounts, verify identity before communicating by requesting a PGP signed message._
+ 
+</div>
