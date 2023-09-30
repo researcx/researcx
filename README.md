@@ -1,4 +1,4 @@
-[**CV**](https://keiratreial.gitlab.io) &bull; [**Full Information**](https://researcx.gitlab.io) ([mirror #1](https://archive.today/newest/https://researcx.gitlab.io), [mirror #2](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/newest/https://researcx.gitlab.io))
+[**CV**](https://keiratreial.gitlab.io) &bull; [**Projects / Repositories**](https://researcx.gitlab.io)
 
 
 <div align="center">
